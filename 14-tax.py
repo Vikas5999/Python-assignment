@@ -1,0 +1,8 @@
+# 15.Calculate tax on income
+
+income = 500000
+tax_rate = 10
+print(f"income = {income}")
+print(f"tax_rate = {tax_rate}")
+tax = income/tax_rate
+print(f"tax = {tax}")
