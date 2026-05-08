@@ -1,4 +1,4 @@
-
+#Convert 20°F to Celsius
 
 fahrenheit = 20
 print(f"fahrenheit = {fahrenheit}")
